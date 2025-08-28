@@ -106,3 +106,8 @@ l3_edge:
       profile: S1_to_S2_profile
 
 
+banners:
+  motd: |
+    You shall not pass haha Then you shall pass. 
+    Lizard. Lizard. Lizard.
+    EOF
